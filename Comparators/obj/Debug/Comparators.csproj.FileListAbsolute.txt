@@ -1,0 +1,7 @@
+C:\Users\banan\source\repos\AbstractionVUZ\Comparators\bin\Debug\Comparators.exe.config
+C:\Users\banan\source\repos\AbstractionVUZ\Comparators\bin\Debug\Comparators.exe
+C:\Users\banan\source\repos\AbstractionVUZ\Comparators\bin\Debug\Comparators.pdb
+C:\Users\banan\source\repos\AbstractionVUZ\Comparators\obj\Debug\Comparators.csproj.AssemblyReference.cache
+C:\Users\banan\source\repos\AbstractionVUZ\Comparators\obj\Debug\Comparators.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\repos\AbstractionVUZ\Comparators\obj\Debug\Comparators.exe
+C:\Users\banan\source\repos\AbstractionVUZ\Comparators\obj\Debug\Comparators.pdb

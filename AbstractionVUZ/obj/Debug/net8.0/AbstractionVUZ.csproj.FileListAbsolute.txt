@@ -1,0 +1,14 @@
+C:\Users\banan\source\repos\AbstractionVUZ\AbstractionVUZ\bin\Debug\net8.0\AbstractionVUZ.exe
+C:\Users\banan\source\repos\AbstractionVUZ\AbstractionVUZ\bin\Debug\net8.0\AbstractionVUZ.deps.json
+C:\Users\banan\source\repos\AbstractionVUZ\AbstractionVUZ\bin\Debug\net8.0\AbstractionVUZ.runtimeconfig.json
+C:\Users\banan\source\repos\AbstractionVUZ\AbstractionVUZ\bin\Debug\net8.0\AbstractionVUZ.dll
+C:\Users\banan\source\repos\AbstractionVUZ\AbstractionVUZ\bin\Debug\net8.0\AbstractionVUZ.pdb
+C:\Users\banan\source\repos\AbstractionVUZ\AbstractionVUZ\obj\Debug\net8.0\AbstractionVUZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banan\source\repos\AbstractionVUZ\AbstractionVUZ\obj\Debug\net8.0\AbstractionVUZ.AssemblyInfoInputs.cache
+C:\Users\banan\source\repos\AbstractionVUZ\AbstractionVUZ\obj\Debug\net8.0\AbstractionVUZ.AssemblyInfo.cs
+C:\Users\banan\source\repos\AbstractionVUZ\AbstractionVUZ\obj\Debug\net8.0\AbstractionVUZ.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\repos\AbstractionVUZ\AbstractionVUZ\obj\Debug\net8.0\AbstractionVUZ.dll
+C:\Users\banan\source\repos\AbstractionVUZ\AbstractionVUZ\obj\Debug\net8.0\refint\AbstractionVUZ.dll
+C:\Users\banan\source\repos\AbstractionVUZ\AbstractionVUZ\obj\Debug\net8.0\AbstractionVUZ.pdb
+C:\Users\banan\source\repos\AbstractionVUZ\AbstractionVUZ\obj\Debug\net8.0\AbstractionVUZ.genruntimeconfig.cache
+C:\Users\banan\source\repos\AbstractionVUZ\AbstractionVUZ\obj\Debug\net8.0\ref\AbstractionVUZ.dll

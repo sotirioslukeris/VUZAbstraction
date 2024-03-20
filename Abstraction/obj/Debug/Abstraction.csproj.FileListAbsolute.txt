@@ -1,0 +1,7 @@
+C:\Users\banan\source\repos\AbstractionVUZ\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\banan\source\repos\AbstractionVUZ\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\banan\source\repos\AbstractionVUZ\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\banan\source\repos\AbstractionVUZ\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+C:\Users\banan\source\repos\AbstractionVUZ\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\repos\AbstractionVUZ\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\banan\source\repos\AbstractionVUZ\Abstraction\obj\Debug\Abstraction.pdb

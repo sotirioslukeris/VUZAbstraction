@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AbstractionVUZ/1.0.0": {
+        "runtime": {
+          "AbstractionVUZ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractionVUZ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
